@@ -1,0 +1,12 @@
+[
+    {
+        "id": "deluxo",
+        "price": 500000,
+        "name": "Deluxo"
+    },
+    {
+        "id": "weapon_rpg",
+        "price": 100000,
+        "name": "RPG"
+    }
+]
