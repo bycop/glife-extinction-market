@@ -38,7 +38,8 @@ sudo apt install npm (if problems with npm commands)
 
 12 - Create a role to change the price of the market bot (Put it in the file '.env' --> UPDATERROLE)
 
-13 - Then configure the Proxies (https://www.webshare.io/)
+Optionnal: 
+ 13 - Then configure the Proxies (https://www.webshare.io/)
 
 14 - On (Putty, Termius, etc) 'cd /root/FILENAMEMARKETBOT
 
