@@ -14,6 +14,7 @@ Don't forget to leave a star if you like it / use it!
 
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install nodejs
+sudo apt install npm (if problems with npm commands)
 
 3 - Installed PM2 :
 
